@@ -7,6 +7,9 @@
   {
     "name": "gradle",
     "url": "https://services.gradle.org/distributions/gradle-8.7-bin.zip",
+    "bin": [
+      "gradle-8.7/bin/gradle.bat"
+    ],
     "description": "Gradle build automation tool."
   }
 ]
