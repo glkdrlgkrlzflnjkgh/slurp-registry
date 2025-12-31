@@ -1,15 +1,18 @@
 [
   {
-    "name": "funnyfunguloids",
-    "url": "https://github.com/mhgames/funguloids/releases/download/whatever/funguloids.zip",
-    "description": "Open source asteroids-ish game with glowing fungi."
-  },
-  {
     "name": "gradle",
     "url": "https://services.gradle.org/distributions/gradle-8.7-bin.zip",
     "bin": [
       "gradle-8.7/bin/gradle.bat"
     ],
     "description": "Gradle build automation tool."
+  },
+  {
+    "name": "bat",
+    "url": "https://github.com/sharkdp/bat/releases/download/v0.24.0/bat-v0.24.0-x86_64-pc-windows-msvc.zip",
+    "description": "A clone of cat with syntax highlighting and a git integration.",
+    "bin": [
+      "bat.exe"
+    ]
   }
 ]
