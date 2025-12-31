@@ -1,6 +1,7 @@
 [
   {
     "name": "funnyfunguloids",
-    "repo": "https://github.com/mhgames/funguloids.git"
+    "url": "https://github.com/mhgames/funguloids/releases/download/whatever/funguloids.zip",
+    "description": "Open source asteroids-ish game with glowing fungi."
   }
 ]
