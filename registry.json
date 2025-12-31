@@ -3,5 +3,10 @@
     "name": "funnyfunguloids",
     "url": "https://github.com/mhgames/funguloids/releases/download/whatever/funguloids.zip",
     "description": "Open source asteroids-ish game with glowing fungi."
+  },
+  {
+    "name": "gradle",
+    "url": "https://services.gradle.org/distributions/gradle-8.7-bin.zip",
+    "description": "Gradle build automation tool."
   }
 ]
